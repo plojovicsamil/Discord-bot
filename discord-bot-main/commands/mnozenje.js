@@ -2,7 +2,7 @@ module.exports = {
 	name: "pomnozi",
 	aliases: [],
 	description: "Pomnozi ova dva broja",
-	cooldown: 5,
+	cooldown: 6,
 	guildOnly: true,
 	args: true,
 	usage: false,
